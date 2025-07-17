@@ -1,0 +1,1 @@
+A CNN-based model (leveraging deep feature embeddings and real-time face detection via MTCNN) that identifies individuals from facial input with high precision. Integrated with a GUI for user enrollment and real-time recognition
